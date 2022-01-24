@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//ARK2K.github.io/chat-app-ms/static/css/main.4845cf2f.css",
+    "main.js": "//ARK2K.github.io/chat-app-ms/static/js/main.f5873a1e.js",
+    "index.html": "//ARK2K.github.io/chat-app-ms/index.html",
+    "main.4845cf2f.css.map": "//ARK2K.github.io/chat-app-ms/static/css/main.4845cf2f.css.map",
+    "main.f5873a1e.js.map": "//ARK2K.github.io/chat-app-ms/static/js/main.f5873a1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4845cf2f.css",
+    "static/js/main.f5873a1e.js"
+  ]
+}
